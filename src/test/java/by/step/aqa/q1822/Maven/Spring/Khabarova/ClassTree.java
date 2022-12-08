@@ -1,7 +1,7 @@
 package by.step.aqa.q1822.Maven.Spring.Khabarova;
 
 import org.springframework.beans.factory.annotation.Autowired;
-
+/*
 
 public class ClassTree {
   @Autowired
@@ -13,4 +13,4 @@ public class ClassTree {
       System.out.println("i don't know");
   }
 
-}
+}*/
